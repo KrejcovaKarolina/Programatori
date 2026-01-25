@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #152627;
+  color: white;
+}
+
+.info {
+  margin: auto;
+  padding: 10px 30px;
+  max-width: 1100px;
+}
+
+.info h3 {
+  padding-bottom: 7px;
+}
