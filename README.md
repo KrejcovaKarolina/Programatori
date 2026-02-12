@@ -8,7 +8,7 @@ A React-based task planning application designed for development teams. This app
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌟 Key Features
+## 🚀 Key Features
 
 - **Programmer Management:** Add or remove team members. Each person is categorized as either a _Junior_ or _Senior_.
 - **Smart Planning Logic:**
@@ -26,7 +26,7 @@ The application uses a calculation to determine feasibility:
 - **Total Capacity** = (Juniors × 100 + Seniors × 200) × Days.
 - If **Total Capacity** ≥ **Required Lines of Code**, the plan is approved.
 
-## 🚀 Installation & Local Development
+## ⚙️ Installation & Local Development
 
 1. `git clone https://github.com/KrejcovaKarolina/Programatori.git`
 2. `npm install`
